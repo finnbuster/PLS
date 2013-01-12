@@ -1,0 +1,21 @@
+/* Base CSS styles DO NOT CHANGE OR REMOVE */
+
+body {margin: 0;padding: 0;background: #fff;}
+ul, ul li, p, div, ol {margin:0;padding:0;list-style:none;}
+
+.ticket img { border: none; }
+
+img.map_image_link {
+	border: none !important;
+}
+
+.print_button_div{
+	margin: 0 12pt; 
+	width:660px;
+	padding: 10px 20px; 
+	margin: 0 auto 2em auto;
+}
+.print_button_div .print_button{
+	font-size:14px;
+	float:right;
+}

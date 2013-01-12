@@ -1,0 +1,7 @@
+/*  
+The following piece of code needs to be added to your themes CSS file.
+*/
+
+.subpage_excerpt .date_picker{
+	display: none;
+}

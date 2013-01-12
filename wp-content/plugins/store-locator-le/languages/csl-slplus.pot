@@ -1,0 +1,956 @@
+# Copyright (C) 2012 Store Locator Plus
+# This file is distributed under the same license as the Store Locator Plus package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Store Locator Plus 2.6.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/store-locator-le\n"
+"POT-Creation-Date: 2012-04-17 21:33:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: WPCSL-generic/classes/CSL-notifications_class.php:43
+msgid "<p><strong><a href=\"%s\">%s</a> needs attention: </strong>"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:573
+msgid "DEBUG: No driver found."
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:585
+#: WPCSL-generic/classes/CSL-plugin.php:586
+msgid "Support"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:589
+msgid "Purchase"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:590
+msgid "Buy Now"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:593
+msgid "Settings"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:670
+msgid "DEBUG: could not locate driver:"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:722
+#: WPCSL-generic/classes/CSL-themes_class.php:117
+msgid "Display Settings"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:766
+msgid ""
+"Your PHP settings have disabled exec(), your locale list cannot be "
+"determined."
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:784
+msgid "This is based on your current locale, which is set to "
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:852
+msgid "DEBUG: Shortcode called with attributes:"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:857
+msgid "DEBUG: Shortcode called with no attributes."
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:906
+msgid "DEBUG: Not OK To Show"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-plugin.php:974
+msgid "No products found"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-settings_class.php:23
+msgid "Save Changes"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-settings_class.php:423
+msgid "The following optional add-ons are available"
+msgstr ""
+
+#: WPCSL-generic/classes/CSL-themes_class.php:118
+msgid "Select A Theme"
+msgstr ""
+
+#: core/add-locations.php:29
+msgid "Store Locator Plus - Add Locations"
+msgstr ""
+
+#: core/add-locations.php:62
+msgid "Added Succesfully"
+msgstr ""
+
+#: core/add-locations.php:116
+msgid "The CSV file has too many fields."
+msgstr ""
+
+#: core/add-locations.php:120
+msgid "Got %d expected less than %d."
+msgstr ""
+
+#: core/add-locations.php:133
+msgid "locations added succesfully."
+msgstr ""
+
+#: core/add-locations.php:139
+msgid "File could not be saved, check the plugin directory permissions:"
+msgstr ""
+
+#: core/add-locations.php:148
+msgid "Uploaded file needs to be in CSV format."
+msgstr ""
+
+#: core/csl_helpers.php:112
+msgid "These settings affect how the reporting system behaves. "
+msgstr ""
+
+#: core/functions.sl.php:293
+msgid "Could not add/update address.  Error: %s."
+msgstr ""
+
+#: core/functions.sl.php:303 core/functions.sl.php:312
+#: core/functions.sl.php:319
+msgid "Address %s <font color=red>failed to geocode</font>. "
+msgstr ""
+
+#: core/functions.sl.php:304 core/functions.sl.php:320
+msgid "Received status %s."
+msgstr ""
+
+#: core/functions.sl.php:313
+msgid "Unknown Address! Received status %s."
+msgstr ""
+
+#: core/functions.sl.php:489 reporting.php:323
+msgid "Address"
+msgstr ""
+
+#: core/functions.sl.php:497
+msgid "Enter Your Address or Zip Code Above."
+msgstr ""
+
+#: core/functions.sl.php:682 core/functions.sl.php:683
+#: core/templates/map_settings.php:13 core/view-locations.php:386
+msgid "Add Locations"
+msgstr ""
+
+#: core/functions.sl.php:689 core/functions.sl.php:690
+#: core/templates/map_settings.php:16 core/variables.sl.php:14
+#: core/view-locations.php:11
+msgid "Manage Locations"
+msgstr ""
+
+#: core/functions.sl.php:696 core/functions.sl.php:697
+#: core/templates/map_settings.php:10
+msgid "Map Settings"
+msgstr ""
+
+#: core/functions.sl.php:708 core/functions.sl.php:709
+msgid "Reports"
+msgstr ""
+
+#: core/map-designer.php:164
+msgid "Successful Update"
+msgstr ""
+
+#: core/map-designer.php:236
+msgid "Normal"
+msgstr ""
+
+#: core/map-designer.php:237
+msgid "Satellite"
+msgstr ""
+
+#: core/map-designer.php:238
+msgid "Hybrid"
+msgstr ""
+
+#: core/map-designer.php:239
+msgid "Physical"
+msgstr ""
+
+#: core/map-designer.php:335
+msgid ""
+"Please re-select your <b>Home Icon</b> and <b>Destination Icon</b> below, so "
+"that they show up properly on your map."
+msgstr ""
+
+#: core/map-designer.php:375
+msgid "Search Form"
+msgstr ""
+
+#: core/map-designer.php:387
+msgid "Map"
+msgstr ""
+
+#: core/map-designer.php:412
+msgid "Plugin Info"
+msgstr ""
+
+#: core/search-links.php:55
+msgid "for your search of"
+msgstr ""
+
+#: core/search-links.php:57
+msgid "Clear&nbsp;Results"
+msgstr ""
+
+#: core/search-links.php:65
+msgid "Results"
+msgstr ""
+
+#: core/search-links.php:67
+msgid "total"
+msgstr ""
+
+#: core/search-links.php:79
+msgid "Previous"
+msgstr ""
+
+#: core/search-links.php:90
+msgid "Next"
+msgstr ""
+
+#: core/templates/add_location_address.php:9
+msgid "Enter An Address"
+msgstr ""
+
+#: core/templates/add_location_address.php:14
+#: core/templates/edit_location_address.php:8
+msgid "Name of Location"
+msgstr ""
+
+#: core/templates/add_location_address.php:17
+#: core/templates/edit_location_address.php:11
+msgid "Street - Line 1"
+msgstr ""
+
+#: core/templates/add_location_address.php:20
+#: core/templates/edit_location_address.php:14
+msgid "Street - Line 2"
+msgstr ""
+
+#: core/templates/add_location_address.php:23
+#: core/templates/edit_location_address.php:17
+msgid "City, State, ZIP"
+msgstr ""
+
+#: core/templates/add_location_address.php:29
+#: core/templates/edit_location_address.php:22
+#: core/templates/settings_mapform.php:152
+msgid "Country"
+msgstr ""
+
+#: core/templates/add_location_address.php:32
+#: core/templates/add_location_address.php:64
+msgid "Add Location"
+msgstr ""
+
+#: core/templates/add_location_address.php:39 core/view-locations.php:314
+msgid "Additional Information"
+msgstr ""
+
+#: core/templates/add_location_address.php:41 core/view-locations.php:266
+#: core/view-locations.php:315
+msgid "Description"
+msgstr ""
+
+#: core/templates/add_location_address.php:44
+#: core/templates/managelocations_actionbar.php:60 core/view-locations.php:262
+#: reporting.php:374
+msgid "Tags"
+msgstr ""
+
+#: core/templates/add_location_address.php:48 core/view-locations.php:269
+#: core/view-locations.php:317
+msgid "URL"
+msgstr ""
+
+#: core/templates/add_location_address.php:51
+msgid "email"
+msgstr ""
+
+#: core/templates/add_location_address.php:54 core/view-locations.php:275
+#: core/view-locations.php:319
+msgid "Hours"
+msgstr ""
+
+#: core/templates/add_location_address.php:57 core/view-locations.php:278
+#: core/view-locations.php:320
+msgid "Phone"
+msgstr ""
+
+#: core/templates/add_location_address.php:60 core/view-locations.php:321
+msgid "Image URL (shown with location)"
+msgstr ""
+
+#: core/templates/email_form.php:5
+msgid "From"
+msgstr ""
+
+#: core/templates/email_form.php:12
+msgid "To"
+msgstr ""
+
+#: core/templates/email_form.php:19
+msgid "Subject"
+msgstr ""
+
+#: core/templates/email_form.php:26
+msgid "Message"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:11
+msgid "Switch to normal view?"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:12
+msgid "Normal View"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:14
+msgid "Switch to expanded view?"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:15
+msgid "Expanded View"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:31
+msgid "Location Actions"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:33
+msgid "Delete selected?"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:33
+msgid "Delete Selected"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:41
+msgid "Recode selected?"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:41
+msgid "Recode Selected"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:55
+msgid "Tag selected?"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:55
+msgid "Tag Selected"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:56
+msgid "Remove tag from selected?"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:56
+msgid "Untag Selected"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:67
+msgid "Search Locations"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:73
+msgid "Show "
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:85
+msgid " locations"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:96
+msgid "Location Filters"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:98
+msgid "Uncoded Only"
+msgstr ""
+
+#: core/templates/managelocations_actionbar.php:99
+msgid "Show All"
+msgstr ""
+
+#: core/templates/map_settings.php:25
+msgid "Search Settings"
+msgstr ""
+
+#: core/templates/map_settings.php:31
+msgid "Search Features"
+msgstr ""
+
+#: core/templates/map_settings.php:32
+msgid "Show Search By..."
+msgstr ""
+
+#: core/templates/map_settings.php:36
+msgid "City Pulldown"
+msgstr ""
+
+#: core/templates/map_settings.php:56
+#: core/templates/settings_searchform.php:58
+msgid "Labels"
+msgstr ""
+
+#: core/templates/map_settings.php:59
+#: core/templates/settings_searchform.php:61
+msgid "Address Input"
+msgstr ""
+
+#: core/templates/map_settings.php:61
+#: core/templates/settings_searchform.php:65
+msgid "Label for search form address entry."
+msgstr ""
+
+#: core/templates/map_settings.php:71
+#: core/templates/settings_searchform.php:77
+msgid "Radius Dropdown"
+msgstr ""
+
+#: core/templates/map_settings.php:73
+#: core/templates/settings_searchform.php:81
+msgid "Label for search form radius pulldown."
+msgstr ""
+
+#: core/templates/map_settings.php:77
+#: core/templates/settings_searchform.php:87
+msgid "Website URL"
+msgstr ""
+
+#: core/templates/map_settings.php:79
+#: core/templates/settings_searchform.php:91
+msgid "Label for website URL in search results."
+msgstr ""
+
+#: core/templates/map_settings.php:83
+#: core/templates/settings_searchform.php:97
+msgid "Instruction Message"
+msgstr ""
+
+#: core/templates/map_settings.php:85
+#: core/templates/settings_searchform.php:101
+msgid "Instruction text when map is first displayed."
+msgstr ""
+
+#: core/templates/map_settings.php:91
+msgid "Map Designer"
+msgstr ""
+
+#: core/templates/navbar.php:17
+msgid "Enter your Google API key to enable location management."
+msgstr ""
+
+#: core/templates/search_form.php:107
+msgid "Any"
+msgstr ""
+
+#: core/templates/settings_mapform.php:9
+#: core/templates/settings_searchform.php:8
+msgid "Features"
+msgstr ""
+
+#: core/templates/settings_mapform.php:11
+msgid "Default Map Type"
+msgstr ""
+
+#: core/templates/settings_mapform.php:15
+msgid "Show Map Inset Box"
+msgstr ""
+
+#: core/templates/settings_mapform.php:20
+msgid "Immediately Show Locations"
+msgstr ""
+
+#: core/templates/settings_mapform.php:25
+msgid "Immediately show up to"
+msgstr ""
+
+#: core/templates/settings_mapform.php:27
+msgid "locations."
+msgstr ""
+
+#: core/templates/settings_mapform.php:30
+msgid "Recommended Max: 50"
+msgstr ""
+
+#: core/templates/settings_mapform.php:48
+msgid "Return at most"
+msgstr ""
+
+#: core/templates/settings_mapform.php:56
+msgid "locations when searching."
+msgstr ""
+
+#: core/templates/settings_mapform.php:59
+msgid ""
+"Enter a number to limit how many results are returned during a search. The "
+"default is 25."
+msgstr ""
+
+#: core/templates/settings_mapform.php:78
+msgid "Dimensions"
+msgstr ""
+
+#: core/templates/settings_mapform.php:81
+msgid "Zoom Level"
+msgstr ""
+
+#: core/templates/settings_mapform.php:96
+msgid "Zoom  Adjustment"
+msgstr ""
+
+#: core/templates/settings_mapform.php:110
+msgid "Map Height"
+msgstr ""
+
+#: core/templates/settings_mapform.php:116
+msgid "Map Width"
+msgstr ""
+
+#: core/templates/settings_mapform.php:125
+msgid "Icons"
+msgstr ""
+
+#: core/templates/settings_mapform.php:129
+msgid "Remove Credits"
+msgstr ""
+
+#: core/templates/settings_mapform.php:134
+msgid "Home Icon"
+msgstr ""
+
+#: core/templates/settings_mapform.php:141
+msgid "Destination Icon"
+msgstr ""
+
+#: core/templates/settings_mapform.php:154
+msgid "Select Your Location"
+msgstr ""
+
+#: core/templates/settings_mapform.php:166
+msgid "Select Character Encoding"
+msgstr ""
+
+#: core/templates/settings_searchform.php:12
+msgid "Show City Pulldown"
+msgstr ""
+
+#: core/templates/settings_searchform.php:22
+msgid "Radii Options"
+msgstr ""
+
+#: core/templates/settings_searchform.php:26
+msgid ""
+"Separate each number with a comma ','. Put parenthesis '( )' around the "
+"default.</span>"
+msgstr ""
+
+#: core/templates/settings_searchform.php:32
+msgid "Distance Unit"
+msgstr ""
+
+#: core/templates/settings_searchform.php:35
+msgid "Kilometers"
+msgstr ""
+
+#: core/templates/settings_searchform.php:36
+msgid "Miles"
+msgstr ""
+
+#: core/view-locations.php:27
+msgid "Store Locator Plus - Manage Locations"
+msgstr ""
+
+#: core/view-locations.php:44
+msgid "Google API Key needs to be set to activate this feature."
+msgstr ""
+
+#: core/view-locations.php:254
+msgid "Actions"
+msgstr ""
+
+#: core/view-locations.php:255
+msgid "ID"
+msgstr ""
+
+#: core/view-locations.php:256
+msgid "Name"
+msgstr ""
+
+#: core/view-locations.php:257
+msgid "Street"
+msgstr ""
+
+#: core/view-locations.php:258
+msgid "Street2"
+msgstr ""
+
+#: core/view-locations.php:259 reporting.php:371
+msgid "City"
+msgstr ""
+
+#: core/view-locations.php:260 reporting.php:372
+msgid "State"
+msgstr ""
+
+#: core/view-locations.php:261 reporting.php:373
+msgid "Zip"
+msgstr ""
+
+#: core/view-locations.php:272 core/view-locations.php:318
+#: core/view-locations.php:338
+msgid "Email"
+msgstr ""
+
+#: core/view-locations.php:281
+msgid "Image"
+msgstr ""
+
+#: core/view-locations.php:305
+msgid "Type&nbsp;Address"
+msgstr ""
+
+#: core/view-locations.php:312
+msgid "Update"
+msgstr ""
+
+#: core/view-locations.php:312
+msgid "Cancel"
+msgstr ""
+
+#: core/view-locations.php:316
+msgid "Tags (seperate with commas)"
+msgstr ""
+
+#: core/view-locations.php:335 core/view-locations.php:341
+#: core/view-locations.php:345
+msgid "View"
+msgstr ""
+
+#: core/view-locations.php:351
+msgid "edit"
+msgstr ""
+
+#: core/view-locations.php:355
+msgid "delete"
+msgstr ""
+
+#: core/view-locations.php:357
+msgid "Delete %s?"
+msgstr ""
+
+#: core/view-locations.php:382
+msgid "No Locations Showing for this Search of "
+msgstr ""
+
+#: core/view-locations.php:384
+msgid "No Locations Currently in Database"
+msgstr ""
+
+#: include/storelocatorplus-actions_class.php:124
+msgid ""
+"SLPLUS: The theme or a plugin is preventing trailing JavaScript from loading."
+msgstr ""
+
+#: include/storelocatorplus-actions_class.php:129
+msgid ""
+"SLPLUS: Google Map Interface did not load.\\n\\nCheck your Google API key "
+"and make sure you have API V2 enabled."
+msgstr ""
+
+#: plustemplates/addlocations_bulkupload.php:3
+msgid "Bulk Upload"
+msgstr ""
+
+#: plustemplates/addlocations_bulkupload.php:10
+msgid "Upload Locations"
+msgstr ""
+
+#: plustemplates/mapsettings_labels.php:6
+msgid "Search By Tag Label"
+msgstr ""
+
+#: plustemplates/mapsettings_labels.php:10
+msgid "Label for search form tags field."
+msgstr ""
+
+#: plustemplates/mapsettings_labels.php:15
+msgid "State Pulldown Label"
+msgstr ""
+
+#: plustemplates/mapsettings_labels.php:19
+msgid ""
+"Label for state pulldown field. Use &amp;nbsp; to retain indent with no "
+"label shown."
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:11
+msgid "Disable Initial Directory"
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:21
+msgid ""
+"Do not display the listings under the map when \"immediately show locations"
+"\" is checked."
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:28
+msgid "Starting Image"
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:32
+msgid "If set, this image will be displayed until a search is performed."
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:41
+msgid "Show Tags In Output"
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:51
+msgid "Show the tags in the location output table and bubble."
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:58
+msgid "Use Email Form"
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:68
+msgid "Use email form instead of mailto: link when showing email addresses."
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:76
+msgid "Disable Scroll Wheel"
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:86
+msgid "Disable the scrollwheel zoom on the maps interface."
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:94
+msgid "Hide map 3d control"
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:95
+msgid "Turn the large map 3D control off."
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:100
+msgid "Hide map scale"
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:101
+msgid "Turn the map scale off."
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:106
+msgid "Hide map type"
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:107
+msgid "Turn the map type selector off."
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:118
+msgid "Center Map At"
+msgstr ""
+
+#: plustemplates/mapsettings_mapfeatures.php:122
+msgid ""
+"Enter an address to serve as the initial focus for the map.  (Default: "
+"center of the country)."
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:4
+msgid "Hide radius selection"
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:5
+msgid ""
+"Hides the radius selection from the user, the default radius will be used."
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:10
+msgid "Hide address entry box"
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:11
+msgid "Hides the address entry box from the user."
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:16
+msgid "Disable search"
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:17
+msgid ""
+"This makes the search form non-interactive.  Typically used with the "
+"immediately show locations feature with a smaller listing set."
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:29
+msgid "Show State Pulldown"
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:45
+msgid "Show Country Pulldown"
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:61
+msgid "Tag Input"
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:62
+msgid "Show the tag entry box on the search form."
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:68
+msgid "Preselected Tag Searches"
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:75
+msgid ""
+"Enter a comma (,) separated list of tags to show in the search pulldown, "
+"mark the default selection with parenthesis '( )'. This is a default setting "
+"that can be overriden on each page within the shortcode."
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:84
+msgid "Add \"any\" to tags pulldown"
+msgstr ""
+
+#: plustemplates/mapsettings_searchfeatures.php:85
+msgid ""
+"Add an \"any\" selection on the tag pulldown list thus allowing the user to "
+"show all locations in the area, not just those matching a selected tag."
+msgstr ""
+
+#: reporting.php:116
+msgid "Report Parameters"
+msgstr ""
+
+#: reporting.php:117
+msgid ""
+"Use these settings to select which data to\n"
+"                report on."
+msgstr ""
+
+#: reporting.php:131
+msgid "Start Date: "
+msgstr ""
+
+#: reporting.php:152
+msgid "End Date: "
+msgstr ""
+
+#: reporting.php:169
+msgid "How many detail records? "
+msgstr ""
+
+#: reporting.php:190
+msgid "Run Report"
+msgstr ""
+
+#: reporting.php:199
+msgid "Store Locator Plus Usage"
+msgstr ""
+
+#: reporting.php:276
+msgid "Total searches: <strong>%s</strong>"
+msgstr ""
+
+#: reporting.php:277
+msgid "Total results: <strong>%s</strong>"
+msgstr ""
+
+#: reporting.php:285
+msgid "Summary"
+msgstr ""
+
+#: reporting.php:321
+msgid "Top %s Addresses Searched"
+msgstr ""
+
+#: reporting.php:324 reporting.php:375
+msgid "Total"
+msgstr ""
+
+#: reporting.php:333
+msgid "topsearches"
+msgstr ""
+
+#: reporting.php:368
+msgid "Top %s Results Returned"
+msgstr ""
+
+#: reporting.php:370
+msgid "Store"
+msgstr ""
+
+#: reporting.php:388
+msgid "topresults"
+msgstr ""
+
+#: reporting.php:394
+msgid "Export To CSV"
+msgstr ""
+
+#: reporting.php:396
+msgid "Export all records"
+msgstr ""
+
+#: reporting.php:400
+msgid "Top Searches"
+msgstr ""
+
+#: reporting.php:401
+msgid "Top Results"
+msgstr ""
+
+#: reporting.php:409
+msgid "Details"
+msgstr ""
+
+#: reporting.php:460
+msgid "This is a Pro Pack feature."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Store Locator Plus"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.storelocatorplus.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An advanced system for managing multiple physical locations via a fully "
+"integrated WordPress solution. Store just a few or as many as a few thousand "
+"locations in the WordPress database using the built-in location management "
+"system."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Cyber Sprocket Labs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.cybersprocket.com"
+msgstr ""

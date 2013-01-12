@@ -1,0 +1,84 @@
+.recurring_events_wrapper > table{
+	border:2px solid #e8e8e8;
+	border-collapse: separate;
+	margin: 0 auto;
+}
+table.recurring_summary {
+	background: #FAF9EF;
+	border: 1px solid #bebebe;
+	border-collapse: collapse;
+}
+table.recurring_summary tr {
+	border-bottom: 1px solid #bebebe;
+}
+table.recurring_summary th {
+	background: #EBEAE1; 
+	text-align: left;
+}
+table.recurring_summary th,
+table.recurring_summary td {
+	border-right: 1px solid #bebebe;
+	padding: 4px;
+}
+.recurring_events_wrapper table.fields{
+	border:2px solid #ccc;
+	border-collapse: separate;
+}
+.recurring_events_wrapper th,  .recurring_events_wrapper td {
+	padding:1px;
+	text-align: right;
+	font-size: 12px;
+	vertical-align: middle;
+}
+.recurring_events_wrapper table.left_align td {
+	text-align: left;
+}
+.recurring_events_wrapper td.label {
+	font-weight: bold;
+	text-align: right;
+}
+#poststuff .recurring_events_wrapper h4 {
+	text-align: left;
+	margin-top: .3em;
+}
+.recurring_events_wrapper hr {
+	color: #e8e8e8;
+	height: 1px;
+}
+#recurrence_message{
+	background: #ffcccc;
+	border:2px solid  #ff6666;
+	font-size: 11px;
+	margin:5px;
+	padding:5px;
+	width:50%;
+}
+#recurrence_ajax_response {}
+.re_fr {
+	float:right;
+}
+.recurring_events_wrapper .cl {
+	clear:both;
+}
+.recurring_events_wrapper .ov_scroll {
+	overflow: auto;
+	min-height: 150px;
+	max-height: 250px;
+	padding-bottom: 10px;
+}
+#recurrence_manual_date_table{
+	margin:10px 0;
+	padding:5px;
+}
+#recurrence_manual_date_table td{
+	vertical-align: middle;
+}
+.recurring_events_details {
+	clear: both;
+}
+.recurring_events_wrapper li {
+	margin:10px;
+	border-top: 2px solid #e8e8e8;
+	overflow: hidden;
+	padding: 10px 0 10px;
+}

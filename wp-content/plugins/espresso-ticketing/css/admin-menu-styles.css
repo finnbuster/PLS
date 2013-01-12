@@ -1,0 +1,15 @@
+/**
+* Event Espresso dashboard ticketing menu styles 
+*
+*/
+
+a[href="admin.php?page=template_confg"] {
+	border-bottom: none !important; padding: auto;
+}
+a[href="admin.php?page=event_tickets"]{
+	border-bottom: 1px solid #ccc; margin-bottom: 5px; padding-bottom: 5px;
+}
+
+a[href="admin.php?page=admin_addons"] {
+	border-top: none !important; margin-top: 0px !important; padding-top: 0px !important;
+}

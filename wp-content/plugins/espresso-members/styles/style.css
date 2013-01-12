@@ -1,0 +1,36 @@
+body.my-events-management table#table td {
+	text-align: center;
+}
+
+ul.event-count-totals {
+
+}
+div#item-header ul.event-count-totals li {
+	margin: 0 10px 0 0;
+	font-size: 12px;
+	color: #999;
+	float: left;		
+}
+div#item-header ul.event-count-totals li span {
+	font-weight: bold;
+	display: inline;
+}
+
+
+span.event-attendees-count {
+	font-size: 11px;
+	color: #999;
+}
+div.item-attendees {
+	margin: 10px 0 0 0;
+}
+
+div.item-event-location-information {
+	padding: 5px;
+}
+div.item-event-address span, div.item-event-venue {
+	margin: 0 10px 0 0;
+	font-size: 11px;
+	line-height: 14px;
+	color: #999;
+}

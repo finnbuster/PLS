@@ -1,0 +1,6 @@
+#map { position:relative!important; width: 100%; min-height:400px; }
+#side_bar { width: 100%;}
+.map { width:60%; vertical-align:top; padding:4px; font-size:11px;}
+.side_bar { width: 40%; vertical-align:top; padding:4px; font-size:11px; overflow:auto;}
+.storelocator, input, select {font-family: Arial, sans-serif; font-size:12px;}
+.storewrap { margin: 0px;}
